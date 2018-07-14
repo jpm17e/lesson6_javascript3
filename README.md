@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 13th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jason Merry
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To properly code a slide show
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jpm17e.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Figure elements
+2. SRC Values
+3. Code for a photo slide show
